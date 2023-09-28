@@ -1,3 +1,7 @@
+#The below file takes a csv file called 'data.csv' file.
+#I created a dataframe from it and built a histogram using the data.
+#Here's the code
+
 import matplotlib
 
 import pandas as pd
