@@ -1,4 +1,4 @@
-
+#A 2-D numpy array is taken and using that data,I have built a basic histogram out of the data.
 import matplotlib
 import numpy as np
 import pandas as pd
